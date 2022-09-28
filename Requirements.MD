@@ -1,1 +1,0 @@
-- We will start the program by showing an input screen to the user where it will accept a month and a year in mm-yyyy format as shown below:
